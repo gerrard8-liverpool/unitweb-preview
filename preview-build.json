@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "2f6fc1b7a38ef0d2989fccc9778c68ab56010df8",
+  "sourceCommit": "2ce0e19a28e5314ff8aa284a75d5fad425dc6b05",
   "sourceBranch": "develop",
-  "buildTimestamp": "2026-08-21T12:59:48.373Z",
+  "buildTimestamp": "2026-08-22T09:01:38.518Z",
   "previewFormat": "next-static-export",
   "previewVersion": 1
 }
