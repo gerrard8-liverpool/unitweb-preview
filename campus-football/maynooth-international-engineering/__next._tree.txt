@@ -1,0 +1,5 @@
+:HL["/unitweb-preview/_next/static/chunks/02prift1a6a2h.css","style"]
+:HC["/",""]
+:HL["/unitweb-preview/_next/static/chunks/0sz5-c-61-6o_.css","style"]
+:HL["/unitweb-preview/_next/static/chunks/3v4v69w41w6u1.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campus-football","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"maynooth-international-engineering","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"0NZ6WLjijpkmnkS1Xs4O8"}

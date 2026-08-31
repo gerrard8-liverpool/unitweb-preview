@@ -1,4 +1,4 @@
 :HL["/unitweb-preview/_next/static/chunks/02prift1a6a2h.css","style"]
 :HC["/",""]
 :HL["/unitweb-preview/_next/static/chunks/3i6-fzbfrg1n8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campus-football","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"4ec_NWuC75QRRtXjNHbYq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campus-football","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"0NZ6WLjijpkmnkS1Xs4O8"}
