@@ -1,4 +1,4 @@
-:HL["/unitweb-preview/_next/static/chunks/0n23nmzv9j3y_.css","style"]
+:HL["/unitweb-preview/_next/static/chunks/1_4ryb1xyd5xc.css","style"]
 :HC["/",""]
-:HL["/unitweb-preview/_next/static/chunks/1a2wl_6h4px3n.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campus-football","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"biological-science-and-engineering","siblings":["competitions","venues"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"I-3_maeN11dZF1AQJA9-H"}
+:HL["/unitweb-preview/_next/static/chunks/0nonhsr_w0pjt.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campus-football","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"biological-science-and-engineering","siblings":["competitions","venues"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"6YzCtmIS8E8TC-T8R0b9N"}
